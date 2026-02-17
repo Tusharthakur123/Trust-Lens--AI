@@ -1,6 +1,7 @@
 flask
 flask-cors
-tensorflow
+tensorflow-macos
+tensorflow-metal
 opencv-python
 numpy
 pillow
